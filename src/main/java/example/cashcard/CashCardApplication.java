@@ -1,13 +1,13 @@
-package com.example.demo;
+package example.cashcard;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CashCardSpringAcademyApplication {
+public class CashCardApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CashCardSpringAcademyApplication.class, args);
+		SpringApplication.run(CashCardApplication.class, args);
 	}
 
 }
